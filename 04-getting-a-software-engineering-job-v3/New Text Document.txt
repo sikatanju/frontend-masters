@@ -1,0 +1,25 @@
+1. https://sensible.com/dont-make-me-think/
+
+2. Conterize your app. Docker
+
+3. Check out this repo, with Readme.md -- https://github.com/Vets-Who-Code/vets-who-code-app
+
+4. Importance of README.md, update README.md -- https://github.com/matiassingers/awesome-readme
+
+5. username.github.io -- https://github.com/jeromehardaway/jeromehardaway.github.io -- https://pages.github.com/
+
+6.https://frontendmasters.com/blog/exactly-how-to-deploy-local-files-to-make-a-live-website/
+
+7. https://students.linkedin.com/
+
+8. Update your LinkedIn bio, profile. -- Add your profile section -- `About` section
+
+9. Experience with what you've done in that company, what was your role, what specific have you contributed. with the skill or tech stack you've used.
+
+10. Licenses and Certifications -- (E.g. Microsoft Certified: Azure AI Fundamentals)
+
+11. LinkedIn projects, volunteering, skills, endorsements if you have, recommendations, interesets.
+
+12. Build a project, showcase, get feedback (work on those feedback), endloop.
+
+13. Frontend-handbook -- https://frontendmasters.com/guides/front-end-handbook/2024/
